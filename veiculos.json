@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Jeep Renegade",
+        "categoria": "SUV",
+        "ativo": false
+    },
+    {
+        "nome": "Gol",
+        "categoria": "carro popular",
+        "ativo": false
+    },
+    {
+        "nome": "Uno",
+        "categoria": "carro popular",
+        "ativo": true
+    }
+]
